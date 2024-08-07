@@ -1,0 +1,41 @@
+{
+    "recommendations": {
+      "beach": [
+        {
+          "name": "Bondi Beach",
+          "description": "A popular beach and the name of the surrounding suburb in Sydney, Australia.",
+          "image": "https://example.com/bondi_beach.jpg"
+        },
+        {
+          "name": "Waikiki Beach",
+          "description": "A beachfront neighborhood of Honolulu, on the south shore of the island of Oahu, in Hawaii, United States.",
+          "image": "https://example.com/waikiki_beach.jpg"
+        }
+      ],
+      "temple": [
+        {
+          "name": "Angkor Wat",
+          "description": "A temple complex in Cambodia and one of the largest religious monuments in the world.",
+          "image": "https://example.com/angkor_wat.jpg"
+        },
+        {
+          "name": "Kinkaku-ji",
+          "description": "The Golden Pavilion, officially named Rokuon-ji, is a Zen Buddhist temple in Kyoto, Japan.",
+          "image": "https://example.com/kinkaku_ji.jpg"
+        }
+      ],
+      "country": [
+        {
+          "name": "Japan",
+          "description": "Japan is an island country in East Asia, located in the northwest Pacific Ocean.",
+          "image": "https://example.com/japan.jpg"
+        },
+        {
+          "name": "Italy",
+          "description": "Italy is a European country with a long Mediterranean coastline, has left a powerful mark on Western culture and cuisine.",
+          "image": "https://example.com/italy.jpg"
+        }
+      ]
+    }
+  }
+  

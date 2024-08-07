@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Recommendation Platform</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="contact.html">Contact Us</a></li>
+        </ul>
+    </nav>
+    <header>
+        <h1>Explore the World</h1>
+        <p>Your gateway to amazing travel destinations.</p>
+    </header>
+    <main>
+        <section>
+            <input type="text" id="search" placeholder="Search for beach, temple, or country...">
+            <button onclick="fetchRecommendations()">Search</button>
+        </section>
+        <section id="recommendations">
+            <!-- Recommendations will be displayed here -->
+        </section>
+    </main>
+    <footer>
+        <p>Follow us on:</p>
+        <a href="#">Facebook</a>
+        <a href="#">Twitter</a>
+        <a href="#">Instagram</a>
+    </footer>
+    <script src="travel_recommendation.js"></script>
+</body>
+</html>
