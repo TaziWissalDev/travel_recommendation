@@ -19,7 +19,7 @@ body{
     background-size: cover;
 }
 nav{
-    width: 79rem;
+    width: 100vw;
     height: 4rem;
     display: flex;
     background-color: rgba(0, 0, 0);
@@ -306,7 +306,7 @@ color: rgb(217, 211, 211);
  
 .countries{
     position: absolute;
-    right: 2rem;   
+    right: 10rem;   
    }
    
    
